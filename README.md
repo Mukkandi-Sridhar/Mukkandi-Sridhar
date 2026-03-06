@@ -11,16 +11,16 @@
 <!-- THE HUD DASHBOARD -->
 <p align="center">
 <a href="https://github.com/Mukkandi-Sridhar">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukkandi-Sridhar&show_icons=true&bg_color=transparent&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&hide_border=true&hide_rank=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukkandi-Sridhar&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="160" />
 </a>
 <a href="https://github.com/Mukkandi-Sridhar">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukkandi-Sridhar&background=transparent&stroke=transparent&ring=38bdf8&fire=38bdf8&currStreakNum=c9d1d9&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukkandi-Sridhar&theme=tokyonight&hide_border=true" height="160" />
 </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,fastapi,flask,firebase,git,azure,docker,linux,sqlite,postman&theme=dark&perline=11" height="50" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=py,c,fastapi,flask,firebase,git,azure,docker,linux,sqlite,postman&theme=dark" height="50" />
   </a>
 </p>
 
