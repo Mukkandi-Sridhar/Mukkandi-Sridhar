@@ -11,11 +11,7 @@
 <!-- THE HUD DASHBOARD STATS -->
 <p align="center">
   <a href="https://github.com/Mukkandi-Sridhar">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mukkandi-Sridhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" height="150" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Mukkandi-Sridhar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukkandi-Sridhar&theme=tokyonight&hide_border=true&v=1" height="150" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukkandi-Sridhar&theme=tokyonight&hide_border=true&v=2" height="150" alt="GitHub Streak" />
   </a>
 </p>
 
