@@ -8,19 +8,21 @@
   <a href="https://github.com/Mukkandi-Sridhar"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=38bdf8" /></a>
 </p>
 
-<!-- THE HUD DASHBOARD -->
+<!-- THE HUD DASHBOARD STATS -->
 <p align="center">
-<a href="https://github.com/Mukkandi-Sridhar">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukkandi-Sridhar&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="160" />
-</a>
-<a href="https://github.com/Mukkandi-Sridhar">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukkandi-Sridhar&theme=tokyonight&hide_border=true" height="160" />
-</a>
+  <a href="https://github.com/Mukkandi-Sridhar">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mukkandi-Sridhar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" height="150" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mukkandi-Sridhar">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukkandi-Sridhar&theme=tokyonight&hide_border=true&v=1" height="150" alt="GitHub Streak" />
+  </a>
 </p>
 
+<!-- SKILLS -->
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py,c,fastapi,flask,firebase,git,azure,docker,linux,sqlite,postman&theme=dark" height="50" />
+    <img src="https://skillicons.dev/icons?i=py,c,fastapi,flask,firebase,git,azure,docker,linux,sqlite,postman&theme=dark" height="50" alt="Tech Stack" />
   </a>
 </p>
 
